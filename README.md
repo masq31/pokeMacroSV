@@ -4,7 +4,11 @@ This github repo hosts a macro script I worked on about a couple months ago. As 
 
 Game target: Pokemon Scarlet/Violet
 
-Tools: Python 3.9, Raspberry PI 3b running Rasbian OS, NXBT and associated pip packages: https://github.com/Brikwerk/nxbt
+Tools: 
+
+- Python 3.9 
+- Raspberry PI 3b running Rasbian OS 
+- NXBT and associated pip packages: https://github.com/Brikwerk/nxbt
 
 Prerequisites: 
 
